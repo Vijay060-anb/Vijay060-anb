@@ -1,23 +1,23 @@
-# Hi, I'm Vijay Anbarasu 👋
+# Hi, I'm Vijay Anbarasu 
 
 ### Data Analyst | Data Science & Analytics | SQL | Python | Power BI
 
-📍 Paris, France 🇫🇷
+Paris, France 
 
 I'm a Data Analyst with an MSc in Data Science & Analytics from **EPITA – School of Engineering & Computer Science** and 2 years of professional experience in telecom billing analytics at Tata Consultancy Services (TCS).
 
 I enjoy transforming raw data into meaningful insights through data analysis, visualization, automation, and machine learning.
 
-- 🎓 MSc in Data Science & Analytics – EPITA (2026)
-- 💼 2 years of experience in data analytics at TCS
-- 📊 Interested in Data Analytics, Business Intelligence and Data Engineering
-- 🤖 Exploring AI-powered analytics and automation
-- 🌱 Currently learning Microsoft Fabric, Snowflake and dbt
-- 🎯 Open to Data Analyst / BI Analyst internship opportunities in France (January 2027)
+-  MSc in Data Science & Analytics – EPITA (2026)
+-  2 years of experience in data analytics at TCS
+-  Interested in Data Analytics, Business Intelligence and Data Engineering
+-  Exploring AI-powered analytics and automation
+-  Currently learning Microsoft Fabric, Snowflake and dbt
+-  Open to Data Analyst / BI Analyst internship opportunities in France (January 2027)
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Programming & Data Analysis**
 
@@ -58,7 +58,7 @@ I enjoy transforming raw data into meaningful insights through data analysis, vi
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. Sales Intelligence & Revenue Analytics
 
@@ -89,7 +89,7 @@ I enjoy transforming raw data into meaningful insights through data analysis, vi
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Telecom Billing Analyst – Tata Consultancy Services (TCS)**
 May 2022 – September 2024
@@ -102,7 +102,7 @@ May 2022 – September 2024
 
 ---
 
-## 🎓 Education
+##  Education
 
 **MSc – Data Science & Analytics**
 EPITA – School of Engineering & Computer Science, France
@@ -114,7 +114,7 @@ Achariya Arts and Science College
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - Microsoft Azure AZ-900
 - Microsoft Azure DP-900
@@ -124,4 +124,3 @@ Achariya Arts and Science College
 
 ---
 
-## 🌐&#x20;
